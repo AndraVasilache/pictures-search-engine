@@ -13,7 +13,7 @@ https://www.techomoro.com/how-to-install-and-setup-a-react-app-on-ubuntu-18-04-1
 This project requires axios to run. In the project repository, make sure you install axios:
 
 ```
-npm install --save axios
+npm install
 ```
 
 ## Running the program
